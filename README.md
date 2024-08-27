@@ -4,7 +4,7 @@
 
 💻 My tech stack includes:
 - Python + Python OOP
-- Django + Django REST Framework
+- Django + Django REST Framework + HTMX
 - JavaScript + AJAX
 - Database: MySQL
 - HTML + CSS
