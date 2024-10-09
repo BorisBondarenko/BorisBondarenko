@@ -18,3 +18,9 @@
 🍵 Instead of coffee, I prefer guarana granules.
 
 🎧 I love listening to Enigma (it’s more than just music), but even more, I love listening to my beautiful fiancée😎.
+
+My last articles on Medium:
+13 effective steps to set-up allauth module for Django project
+https://medium.com/@borys_bond/13-effective-steps-to-set-up-allauth-module-for-django-project-370f32cf1d17
+
+
