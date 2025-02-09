@@ -22,4 +22,4 @@
 **My recent articles on Medium:**
 - [13 effective steps to set-up allauth module for Django project](https://medium.com/@borys_bond/13-effective-steps-to-set-up-allauth-module-for-django-project-370f32cf1d17)
 
-
+- [allAuth: How to link a SocialAccount to an existing User in Django](https://medium.com/@borys_bond/allauth-how-to-link-a-socialaccount-to-an-existing-user-in-django-ec103e48a3f5)
