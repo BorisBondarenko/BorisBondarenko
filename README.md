@@ -1,6 +1,6 @@
-👋 I’m a Full stack web developer with a technical background in high-voltage energy systems.
+👋 I’m a Full-stack web developer with a technical background in high-voltage energy systems.
 
-🎓 I hold a Master’s degree in Electro Engineering and Electrical Technologies.
+🎓 I hold a Master’s degree in Electrical Engineering and Electrical Technologies.
 
 💻 My tech stack includes:
 - Python + Python OOP
@@ -17,7 +17,7 @@
 
 🍵 Instead of coffee, I prefer guarana granules.
 
-🎧 I love listening to Enigma (it’s more than just music), but even more, I love listening to my heart and deep feelings😎.
+🎧  I love writing efficient code and listening to Enigma (it’s more than just music)😎.
 
 **My recent articles on Medium:**
 - [13 effective steps to set-up allauth module for Django project](https://medium.com/@borys_bond/13-effective-steps-to-set-up-allauth-module-for-django-project-370f32cf1d17)
