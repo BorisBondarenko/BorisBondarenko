@@ -3,11 +3,12 @@
 🎓 I hold a Master’s degree in Electrical Engineering and Electrical Technologies.
 
 💻 My tech stack includes:
-- Python + Python OOP
-- Django + Django REST Framework + HTMX
-- JavaScript + AJAX
-- Database: MySQL
-- HTML + CSS
+- Python + OOP
+- Django + Django REST Framework
+- HTMX library
+- JavaScript
+- Databases: MySQL, PostgreSQL
+- React + TypeScript
 
 🇺🇦Made with love in Ukraine, but for the past few years, I’ve been living in the 🇨🇿 Czech Republic and 🇦🇹 Austria.
 
